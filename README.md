@@ -1,2 +1,2 @@
 # learnP
-my new git repo for learning python
+my new git repo for python 
